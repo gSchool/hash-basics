@@ -5,7 +5,8 @@
 After this exercise, a student will be able to:
 
 * Create hashes, and perform simple operations on them
-* Write programs that iterate over an array
+* Add new data to a hash
+* Work with nested hashes
 
 ## Tech skill learned
 
