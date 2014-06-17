@@ -1,0 +1,10 @@
+Id,Story,Labels,Iteration,Iteration Start,Iteration End,Story Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By
+73401630,Print Bjorn's last name,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,edit 01_last_name.rb,https://www.pivotaltracker.com/story/show/73401630,
+73401668,Print Bjorn's favorite sport,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,edit 02_favorite_sport.rb,https://www.pivotaltracker.com/story/show/73401668,
+73401690,Print a nice greeting to Bjorn,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,edit 03_greeting.rb,https://www.pivotaltracker.com/story/show/73401690,
+73401724,Give Bjorn a nickname,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,edit 04_add_nickname.rb,https://www.pivotaltracker.com/story/show/73401724,
+73401740,Print Bjorn's address,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,"edit 05_print_address.rb
+",https://www.pivotaltracker.com/story/show/73401740,
+73401770,Print all of Bjorn's favorite foods,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,"edit 06_favorite_food.rb
+",https://www.pivotaltracker.com/story/show/73401770,
+73401794,Print Bjorn's tournament wins,"",1,"Jun 16, 2014","Jun 22, 2014",feature,1,unstarted,"Jun 17, 2014",,,Hunter Gillane,edit 07_tournament_wins.rb,https://www.pivotaltracker.com/story/show/73401794,
