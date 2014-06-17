@@ -21,6 +21,5 @@ After this exercise, a student will be able to:
 
 1. Fork and clone this repo
 1. Look at the data in `person.rb`
-1. Check out `00_example.rb` for an example of what to do (basically, just `puts` things out
-1. Go through each file and complete the exercise
-1. Rejoice!
+2. 1. Check out `00_example.rb` for an example of what to do (basically, just `puts` things out
+1. Import the tracker stories and work through them.
