@@ -1,4 +1,4 @@
-bjorn_borg = {
+person = {
   "first_name" => "Bjorn",
   "last_name" => "Borg",
   "wears_glasses" => true,
@@ -12,4 +12,14 @@ bjorn_borg = {
   "favorite_sport" => "tennis"
 }
 
-# Print Bjorn's favorite sport
+# Without changing anything above this line, add a nickname to the person hash
+#
+# Expected output
+#
+#   "BB"
+#
+#------- your code below here ---------
+
+#------- your code above here ---------
+
+p person["nickname"]

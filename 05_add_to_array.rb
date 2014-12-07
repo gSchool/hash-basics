@@ -1,4 +1,4 @@
-bjorn_borg = {
+person = {
   "first_name" => "Bjorn",
   "last_name" => "Borg",
   "wears_glasses" => true,
@@ -12,4 +12,14 @@ bjorn_borg = {
   "favorite_sport" => "tennis"
 }
 
-# Print the string "Hello, nice to meet you Bjorn Borg."
+# Without changing anything above this line, add "ethiopian" to the person's favorite foods
+#
+# Expected output
+#
+#   ["sushi", "hamburgers", "mexican food", "ethiopian"]
+#
+#------- your code below here ---------
+
+#------- your code above here ---------
+
+p person["favorite_foods"]
