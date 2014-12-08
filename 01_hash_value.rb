@@ -5,7 +5,7 @@ person = {
   favorite_sport: "tennis"
 }
 
-# Print the peron's favorite foods (with `p`)
+# Print the person's favorite foods (with `p`)
 #
 # Expected result:
 #
